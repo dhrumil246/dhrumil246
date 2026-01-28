@@ -5,7 +5,7 @@
 - 📫 How to reach me dhrumil.work964@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- https://chatgpt.com 
+
 
 <!---
 dhrumil246/dhrumil246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
