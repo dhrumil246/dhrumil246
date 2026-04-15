@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 🎓 Computer Science Undergraduate at **CHARUSAT**  
-💻 Aspiring Software Engineer interested in **building clean, maintainable, and production-ready systems**.
+💻 AI Engineer interested in **building clean, maintainable, and production-ready systems**.
 
 I currently serve as the **Webmaster for IEEE CHARUSAT Student Branch**, where I design, deploy, and maintain the official website.  
 My work spans **frontend UI/UX & animations** and **C++ command-line tools**, with a strong focus on fundamentals and problem-solving.
