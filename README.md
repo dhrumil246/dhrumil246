@@ -197,21 +197,25 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 
 <div align="center">
 
+<a href="https://github.com/dhrumil246">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=github_dark&icon_color=38BDF8&text_color=8B949E&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=graywhite&icon_color=0284C7&bg_color=00000000" alt="GitHub statistics for dhrumil246" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhrumil246&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumil246&amp;show_icons=true&amp;hide_border=true&amp;theme=graywhite" alt="GitHub statistics for dhrumil246" height="160" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&layout=compact&hide_border=true&langs_count=6&theme=github_dark&text_color=8B949E&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&layout=compact&hide_border=true&langs_count=6&theme=graywhite&bg_color=00000000" alt="Most used languages" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&amp;layout=compact&amp;hide_border=true&amp;theme=graywhite" alt="Most used languages" height="160" />
 </picture>
+</a>
 
 <br/><br/>
 
+<a href="https://leetcode.com/u/Dhrumil_Amin/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-  <img src="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode progress" width="500" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=light&amp;font=JetBrains%20Mono&amp;ext=heatmap" alt="LeetCode progress" width="500" />
 </picture>
+</a>
 
 <br/><br/>
 
