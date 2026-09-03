@@ -1,102 +1,205 @@
-<h1 align="center">
-  Hi, I’m Dhrumil Amin 👋
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Software+Engineer;Web+%7C+C%2B%2B+%7C+Problem+Solving;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</p>
+# Dhrumil Amin
 
----
+**Full-Stack Developer** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Multi-tenant+platforms+%26+real-time+APIs;REST+%7C+WebSockets+%7C+SSE;Docker+%2B+NGINX+%2B+PM2+on+bare+VPS;Open+to+SDE+%2F+Full-Stack+internships" alt="Full-stack developer focused on multi-tenant platforms, real-time APIs, and production deployment" />
 
-🎓 Computer Science Undergraduate at **CHARUSAT**  
-💻 AI Engineer interested in **building clean, maintainable, and production-ready systems**.
+<br/>
 
-I currently serve as the **Webmaster for IEEE CHARUSAT Student Branch**, where I design, deploy, and maintain the official website.  
-My work spans **frontend UI/UX & animations** and **C++ command-line tools**, with a strong focus on fundamentals and problem-solving.
+<a href="https://github.com/dhrumil246"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/dhrumil-amin-47429a260"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:dhrumilamin.645@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://dhrumilamin.me"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio" /></a>
 
-I’m actively seeking **Software Engineering Internship opportunities**.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,java,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,docker" />
-</p>
+I build production-grade web and mobile platforms — the kind with real users, real roles, and real uptime requirements. Most of my work sits on the backend: designing REST APIs, modelling relational schemas, and wiring up real-time layers with Socket.IO and Server-Sent Events. I also ship the deployment side myself, from Dockerised services behind an NGINX reverse proxy to PM2 process management on a plain VPS.
 
----
+Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44/10), and open to full-stack / SDE internship opportunities.
 
-## 📌 Featured Projects
-
-### 🚀 C++ Data Analyzer
-📊 Command-line data analysis tool built in **C++** for processing CSV datasets.
-
-- Statistical analysis (mean, median, std deviation, min/max)
-- Categorical frequency & correlation analysis
-- CSV parsing, filtering, and export  
-
-🔗 https://github.com/dhrumil246/CPP-DataAnalyzer  
+<table>
+<tr>
+<td valign="top" width="33%"><b>Focus</b><br/><sub>Multi-tenant architecture, real-time systems, monorepos (Turborepo)</sub></td>
+<td valign="top" width="33%"><b>Comfort zone</b><br/><sub>Node.js + Express + Prisma + PostgreSQL/MySQL, React &amp; React Native</sub></td>
+<td valign="top" width="33%"><b>Also</b><br/><sub>200+ LeetCode problems · 4× national hackathon finalist</sub></td>
+</tr>
+</table>
 
 ---
 
-### ✨ Smart Business Document Generator
-📄 Web app to generate Quotations, MOMs, and Work Orders using OCR and structured inputs.
+### Tech Stack
 
-- OCR-based digitization  
-- AI-based summarization  
-- Automated PDF generation  
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=F89820" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/GSAP-161B22?style=flat-square&logo=greensock&logoColor=88CE02" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-161B22?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=2D3748" />
+<img src="https://img.shields.io/badge/JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF" />
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=FF4438" />
+</td>
+</tr>
+<tr>
+<td><b>Infra</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/NGINX-161B22?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/PM2-161B22?style=flat-square&logo=pm2&logoColor=2B037A" />
+<img src="https://img.shields.io/badge/Turborepo-161B22?style=flat-square&logo=turborepo&logoColor=EF4444" />
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎨 GSAP Animation Showcase
-💫 Interactive frontend project demonstrating **professional UI animations using GSAP**.
+### Selected Work
 
-- Timeline-based & scroll-triggered animations  
-- Performance-optimized motion design  
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🔗 https://gsapprojectdhrumil.netlify.app  
+<b>EGE Agritech</b> &nbsp;<sub><code>professional</code></sub><br/>
+<sub>Multi-tenant agricultural supply-chain platform. Turborepo monorepo with a Node/Express/Prisma/MySQL API serving <b>6 user roles</b> across 6 React + Vite apps and a React Native client. Full harvest-to-delivery lifecycle — quality control, shortfall resolution, automated wallet payouts — with Socket.IO pushing live state to every role. Shipped to a VPS behind NGINX with role-based subdomains.</sub><br/><br/>
+<sub><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>MySQL</code> <code>Turborepo</code> <code>Socket.IO</code></sub>
+
+</td>
+<td valign="top" width="50%">
+
+<b>QuizzX</b><br/>
+<sub>Real-time classroom quiz backend built for <b>100+ concurrent participants</b> — live leaderboards, team competitions, and academic-integrity proctoring. Dual SSE streams keep leaderboard updates <b>under 100 ms</b>; Redis caching falls back to in-memory automatically. Includes JWT auth, rate limiting, versioned REST endpoints, and tab-switch / fullscreen anti-cheat detection.</sub><br/><br/>
+<sub><code>Express</code> <code>PostgreSQL (Neon)</code> <code>Redis</code> <code>SSE</code></sub><br/>
+<sub><a href="https://quizzx.tech">quizzx.tech</a></sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<b>AI Resume Analyzer</b><br/>
+<sub>Full-stack app that parses a resume and returns structured feedback on skills, experience alignment, and ATS compatibility. Parsing and AI-analysis pipelines feed real-time insights into a responsive React interface.</sub><br/><br/>
+<sub><code>React</code> <code>Node.js</code> <code>Express</code></sub><br/>
+<sub><a href="https://github.com/dhrumil246/AI-Resume-Analyzer">Code</a> · <a href="https://ai-resume-analyzer-pnui.onrender.com">Live demo</a></sub>
+
+</td>
+<td valign="top" width="50%">
+
+<b>Smart Business Document Generator</b> &nbsp;<sub><code>quotmatex</code></sub><br/>
+<sub>Automates quotations, minutes of meeting, and work orders from OCR-scanned and structured input. Combines document digitisation with AI summarisation and automated PDF generation to cut manual paperwork.</sub><br/><br/>
+<sub><code>React</code> <code>OCR</code> <code>AI Summarization</code></sub><br/>
+<sub><a href="https://github.com/dhrumil246/quotmatex">Code</a></sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+**C++ Data Analyzer** — Command-line tool for CSV datasets: descriptive statistics (mean, median, standard deviation, min/max), categorical frequency and correlation analysis, plus parsing, filtering, and export.
+[Code](https://github.com/dhrumil246/CPP-DataAnalyzer)
+
+**GSAP Animation Showcase** — Timeline-based and scroll-triggered animation work with an emphasis on performance-conscious motion design.
+[Live](https://gsapprojectdhrumil.netlify.app)
+
+**IEEE CHARUSAT SB Website** — Official student branch site in Next.js, with animated UI and page-performance tuning.
+
+</details>
 
 ---
 
-## 🏆 Achievements & Leadership
+### Experience
 
-- 🧠 Solved **200+ problems on LeetCode**
-- 🏁 Finalist at **ODOO Hackathon**
-- 📊 Selected participant, **MSBC DataQuest 2025**
-- 🤖 **Lead Organizer** — Institute-level **Line Following Robot Race**
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=light&font=Fira%20Code&ext=heatmap" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/dhrumil246">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/dhrumil-amin-47429a260">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:dhrumilamin.645@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td valign="top"><b>Full-Stack Developer Intern</b><br/><sub>MCT IT Solutions · Ahmedabad</sub></td>
+<td valign="top" align="right"><sub>May 2026 – Jun 2026</sub></td>
+</tr>
+<tr>
+<td colspan="2"><sub>Built and deployed EGE Agritech end to end — API design, real-time layer, and production infrastructure on a VPS with PM2, NGINX, and Dockerised MySQL &amp; Redis.</sub></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top"><b>Webmaster</b><br/><sub>IEEE CHARUSAT Student Branch</sub></td>
+<td valign="top" align="right"><sub>2025 – 2026</sub></td>
+</tr>
+<tr>
+<td colspan="2"><sub>Designed, deployed, and maintained the official student branch website in Next.js, owning content updates and releases through the term.</sub></td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dhrumil246&icon=0&color=0" />
-</p>
+### Achievements
+
+- **NPTEL Elite Certification** — Programming in Modern C++
+- **Finalist** — National-Level ODOO Hackathon 2025, MSBC DataQuest 2025, Reckon 7.0 2026
+- **Lead Organizer** — Institute-level Line-Following Robot Race
+- **200+ problems** solved on LeetCode
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=github_dark&icon_color=38BDF8&text_color=8B949E&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=graywhite&icon_color=0284C7&bg_color=00000000" alt="GitHub statistics for dhrumil246" height="150" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&layout=compact&hide_border=true&langs_count=6&theme=github_dark&text_color=8B949E&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&layout=compact&hide_border=true&langs_count=6&theme=graywhite&bg_color=00000000" alt="Most used languages" height="150" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode progress" width="500" />
+</picture>
+
+<br/><br/>
+
+<sub>Open to full-stack and backend internship opportunities —
+<a href="mailto:dhrumilamin.645@gmail.com">email</a> ·
+<a href="https://linkedin.com/in/dhrumil-amin-47429a260">LinkedIn</a> ·
+<a href="https://dhrumilamin.me">portfolio</a></sub>
+
+</div>
