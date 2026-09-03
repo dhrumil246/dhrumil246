@@ -2,9 +2,11 @@
 
 # Dhrumil Amin
 
-**Full-Stack Developer** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript
+**Full-Stack Developer** &nbsp;·&nbsp; **AI Systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Multi-tenant+platforms+%26+real-time+APIs;REST+%7C+WebSockets+%7C+SSE;Docker+%2B+NGINX+%2B+PM2+on+bare+VPS;Open+to+SDE+%2F+Full-Stack+internships" alt="Full-stack developer focused on multi-tenant platforms, real-time APIs, and production deployment" />
+<sub>TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;·&nbsp; FastAPI</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Multi-tenant+platforms+%26+real-time+APIs;FastAPI+services+around+AI+workloads;OCR+%2B+LLM+document+intelligence;Docker+%2B+NGINX+%2B+PM2+on+bare+VPS;Open+to+full-stack+%2F+AI+engineering+roles" alt="Full-stack and AI developer: multi-tenant platforms, real-time APIs, FastAPI services, and production deployment" />
 
 <br/>
 
@@ -21,12 +23,14 @@
 
 I build production-grade web and mobile platforms — the kind with real users, real roles, and real uptime requirements. Most of my work sits on the backend: designing REST APIs, modelling relational schemas, and wiring up real-time layers with Socket.IO and Server-Sent Events. I also ship the deployment side myself, from Dockerised services behind an NGINX reverse proxy to PM2 process management on a plain VPS.
 
-Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44/10), and open to full-stack / SDE internship opportunities.
+Increasingly that backend work is AI-shaped. I write **Python and FastAPI** services that sit in front of models and turn them into something an application can actually depend on — document parsing and OCR pipelines, LLM-backed analysis and summarisation, structured output instead of free text, and sane behaviour when the model is slow or wrong. The engineering discipline is the same as any other API; the failure modes are just more interesting.
+
+Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44/10), and open to full-stack and AI engineering internship opportunities.
 
 <table>
 <tr>
-<td valign="top" width="33%"><b>Focus</b><br/><sub>Multi-tenant architecture, real-time systems, monorepos (Turborepo)</sub></td>
-<td valign="top" width="33%"><b>Comfort zone</b><br/><sub>Node.js + Express + Prisma + PostgreSQL/MySQL, React &amp; React Native</sub></td>
+<td valign="top" width="33%"><b>Building</b><br/><sub>Multi-tenant architecture, real-time systems, monorepos (Turborepo)</sub></td>
+<td valign="top" width="33%"><b>Exploring</b><br/><sub>AI-backed services in Python + FastAPI — OCR, LLM pipelines, structured extraction</sub></td>
 <td valign="top" width="33%"><b>Also</b><br/><sub>200+ LeetCode problems · 4× national hackathon finalist</sub></td>
 </tr>
 </table>
@@ -62,6 +66,7 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 <td>
 <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
 <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" />
 <img src="https://img.shields.io/badge/Socket.IO-161B22?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=2D3748" />
 <img src="https://img.shields.io/badge/JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF" />
@@ -74,6 +79,16 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=FF4438" />
+</td>
+</tr>
+<tr>
+<td><b>AI / Python</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/OCR-161B22?style=flat-square&logo=tesseract&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/LLM_APIs-161B22?style=flat-square&logo=openai&logoColor=white" />
+<!-- TODO: add the specific AI tooling you use — e.g. LangChain, Gemini, Hugging Face, pgvector, PyTorch, scikit-learn -->
 </td>
 </tr>
 <tr>
@@ -113,17 +128,17 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 <tr>
 <td valign="top" width="50%">
 
-<b>AI Resume Analyzer</b><br/>
-<sub>Full-stack app that parses a resume and returns structured feedback on skills, experience alignment, and ATS compatibility. Parsing and AI-analysis pipelines feed real-time insights into a responsive React interface.</sub><br/><br/>
-<sub><code>React</code> <code>Node.js</code> <code>Express</code></sub><br/>
+<b>AI Resume Analyzer</b> &nbsp;<sub><code>AI</code></sub><br/>
+<sub>Parses a resume and returns <b>structured</b> feedback — skill coverage, experience alignment, ATS compatibility — rather than a paragraph of model output. The pipeline handles extraction, prompt orchestration, and schema-shaped responses so the React front end can render insights field by field in real time.</sub><br/><br/>
+<sub><code>React</code> <code>Node.js</code> <code>Express</code> <code>LLM pipeline</code></sub><br/>
 <sub><a href="https://github.com/dhrumil246/AI-Resume-Analyzer">Code</a> · <a href="https://ai-resume-analyzer-pnui.onrender.com">Live demo</a></sub>
 
 </td>
 <td valign="top" width="50%">
 
 <b>Smart Business Document Generator</b> &nbsp;<sub><code>quotmatex</code></sub><br/>
-<sub>Automates quotations, minutes of meeting, and work orders from OCR-scanned and structured input. Combines document digitisation with AI summarisation and automated PDF generation to cut manual paperwork.</sub><br/><br/>
-<sub><code>React</code> <code>OCR</code> <code>AI Summarization</code></sub><br/>
+<sub>Document intelligence for back-office paperwork: OCR digitises scanned inputs, an AI summarisation layer pulls out the fields that matter, and the app emits finished quotations, minutes of meeting, and work orders as PDFs — replacing manual re-typing end to end.</sub><br/><br/>
+<sub><code>React</code> <code>OCR</code> <code>AI summarisation</code> <code>PDF generation</code></sub><br/>
 <sub><a href="https://github.com/dhrumil246/quotmatex">Code</a></sub>
 
 </td>
@@ -133,6 +148,9 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 <details>
 <summary><b>More projects</b></summary>
 <br/>
+
+**GlobeTrotter** — Travel-planning application built in TypeScript for the National-Level ODOO Hackathon 2025, where the team reached the finals.
+[Code](https://github.com/dhrumil246/GlobeTrotter_Odoo)
 
 **C++ Data Analyzer** — Command-line tool for CSV datasets: descriptive statistics (mean, median, standard deviation, min/max), categorical frequency and correlation analysis, plus parsing, filtering, and export.
 [Code](https://github.com/dhrumil246/CPP-DataAnalyzer)
@@ -197,7 +215,7 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 
 <br/><br/>
 
-<sub>Open to full-stack and backend internship opportunities —
+<sub>Open to full-stack and AI engineering internship opportunities —
 <a href="mailto:dhrumilamin.645@gmail.com">email</a> ·
 <a href="https://linkedin.com/in/dhrumil-amin-47429a260">LinkedIn</a> ·
 <a href="https://dhrumilamin.me">portfolio</a></sub>
