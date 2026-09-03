@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="header.svg" alt="Dhrumil Amin — full-stack developer, real-time platforms and AI systems" width="100%" />
+# Dhrumil Amin
+
+**Full-Stack Developer** &nbsp;·&nbsp; **AI Systems**
+
+<sub>TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;·&nbsp; FastAPI</sub>
 
 <br/>
 
