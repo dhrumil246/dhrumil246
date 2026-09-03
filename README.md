@@ -1,12 +1,9 @@
 <div align="center">
 
-# Dhrumil Amin
-
-**Full-Stack Developer** &nbsp;·&nbsp; **AI Systems**
-
-<sub>TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;·&nbsp; FastAPI</sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Multi-tenant+platforms+%26+real-time+APIs;FastAPI+services+around+AI+workloads;OCR+%2B+LLM+document+intelligence;Docker+%2B+NGINX+%2B+PM2+on+bare+VPS;Open+to+full-stack+%2F+AI+engineering+roles" alt="Full-stack and AI developer: multi-tenant platforms, real-time APIs, FastAPI services, and production deployment" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
+  <img src="header-light.svg" alt="Dhrumil Amin — full-stack developer and AI systems" width="100%" />
+</picture>
 
 <br/>
 
@@ -31,7 +28,7 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 <tr>
 <td valign="top" width="33%"><b>Building</b><br/><sub>Multi-tenant architecture, real-time systems, monorepos (Turborepo)</sub></td>
 <td valign="top" width="33%"><b>Exploring</b><br/><sub>AI-backed services in Python + FastAPI — OCR, LLM pipelines, structured extraction</sub></td>
-<td valign="top" width="33%"><b>Also</b><br/><sub>200+ LeetCode problems · 4× national hackathon finalist</sub></td>
+<td valign="top" width="33%"><b>Also</b><br/><sub>230+ LeetCode problems · 4× national hackathon finalist</sub></td>
 </tr>
 </table>
 
@@ -191,26 +188,24 @@ Currently in my third year of B.Tech Computer Science at **CHARUSAT** (CGPA 8.44
 - **NPTEL Elite Certification** — Programming in Modern C++
 - **Finalist** — National-Level ODOO Hackathon 2025, MSBC DataQuest 2025, Reckon 7.0 2026
 - **Lead Organizer** — Institute-level Line-Following Robot Race
-- **200+ problems** solved on LeetCode
+- **230+ problems** solved on LeetCode
 
 ---
 
 <div align="center">
 
-<a href="https://github.com/dhrumil246">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhrumil246&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrumil246&amp;show_icons=true&amp;hide_border=true&amp;theme=graywhite" alt="GitHub statistics for dhrumil246" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil246&amp;layout=compact&amp;hide_border=true&amp;theme=graywhite" alt="Most used languages" height="160" />
-</picture>
-</a>
+<!--
+  GitHub stats cards removed: the free github-readme-stats.vercel.app instance is
+  currently returning errors (both cards rendered as broken images). To try again
+  later, uncomment the block below.
 
-<br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhrumil246&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub statistics" height="160" />
+  </picture>
+-->
 
-<a href="https://leetcode.com/u/Dhrumil_Amin/">
+<a href="https://leetcode.com/u/Dhrumil_amin/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" />
   <img src="https://leetcard.jacoblin.cool/Dhrumil_Amin?theme=light&amp;font=JetBrains%20Mono&amp;ext=heatmap" alt="LeetCode progress" width="500" />
