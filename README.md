@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><b>🥈 Runners-up</b><br/><sub>IBM Bob AI Hackathon 2026</sub></td>
+<td align="center" width="25%"><b>🥈 2× Runners-up</b><br/><sub>IBM Bob AI Hackathon 2026<br/>InnoTech 3.0</sub></td>
 <td align="center" width="25%"><b>~190 ms</b><br/><sub>voice start latency, benchmarked<br/>in Hindi · English · Gujarati</sub></td>
 <td align="center" width="25%"><b>0.923 macro-F1</b><br/><sub>custom CNN, 9 wafer<br/>defect classes</sub></td>
 <td align="center" width="25%"><b>6 roles · 1 API</b><br/><sub>multi-tenant platform<br/>shipped in production</sub></td>
@@ -50,15 +50,16 @@ My work runs on two tracks that keep merging:
 <td valign="top" width="50%">
 
 #### 🎙️ Vaani — वाणी
-<sub><code>Real-time voice AI</code> &nbsp;·&nbsp; <code>Lead developer, voice service</code></sub>
+<sub><code>Real-time voice AI</code> &nbsp;·&nbsp; <code>Lead developer, voice service</code> &nbsp;·&nbsp; <code>Top 7, Chaos2Commit</code></sub>
 
-An AI sales agent that finds leads, enriches and scores them, then **places real outbound phone calls** where an AI voice agent holds a live conversation in **Hindi, English and other Indian languages** — transcribing every turn and writing the outcome back to the pipeline.
+An AI sales agent that finds leads, enriches and scores them, then **places real outbound phone calls** where an AI voice agent holds a live conversation in **Gujarati, Hindi or English** — switching mid-call when the prospect does, transcribing every turn and writing the outcome back to the pipeline.
 
 - Built the call pipeline: **Twilio Media Streams → Sarvam streaming STT → LLM → Sarvam TTS**, μ-law 8 kHz end to end with zero resampling
 - Benchmarked before building: **~716 ms** STT finalisation (p50) and **~190 ms** TTS start across 108 phone-codec utterances in 3 languages
 - **Honest barge-in** — when the caller interrupts, only audio they actually heard enters the model's context
 - Fixed issues only real calls expose: language-specific silence windows (500 ms EN / 800 ms Indic) and per-language model routing for fluent Hindi
-- Two-service design: Next.js 16 app + always-on FastAPI worker sharing a Supabase Postgres contract
+- **Live human handoff mid-call** — the agent answers in the caller's language and rings a teammate with a spoken summary. Mentors asked for it at evaluation, and it was working on real calls the next morning
+- **970+ automated tests** and dozens of real phone calls; Next.js 16 app + always-on FastAPI worker on a shared Supabase Postgres contract, plus an Android / iOS app
 
 <sub><code>Python</code> <code>FastAPI</code> <code>WebSockets</code> <code>Twilio</code> <code>Sarvam AI</code> <code>Next.js 16</code> <code>Supabase</code></sub><br/>
 <sub><a href="https://github.com/dhrumil246/Vaani-AI">Code</a> &nbsp;·&nbsp; team of 3</sub>
@@ -67,7 +68,7 @@ An AI sales agent that finds leads, enriches and scores them, then **places real
 <td valign="top" width="50%">
 
 #### 🔬 YieldGuard
-<sub><code>Agentic ML</code> &nbsp;·&nbsp; <code>🥈 Runners-up, IBM Bob AI Hackathon 2026</code></sub>
+<sub><code>Agentic ML</code> &nbsp;·&nbsp; <code>🥈 Runners-up, IBM Bob AI Hackathon 2026</code> &nbsp;·&nbsp; <code>🥈 Runners-up, InnoTech 3.0 (Development)</code></sub>
 
 An agentic root-cause assistant for **semiconductor wafer-yield failures**. It classifies wafer-map defects, scores sensor anomalies, and ranks root causes **with cited evidence** — and refuses to answer when the input is invalid or too novel.
 
@@ -75,7 +76,8 @@ An agentic root-cause assistant for **semiconductor wafer-yield failures**. It c
 - Built a **14-tool MCP server** orchestrated by IBM Bob; hypotheses without cited evidence are stripped server-side. Agent scored **16/18** on our end-to-end eval suite
 - **Conformal prediction** on CMP process data raised excursion detection **34.7% → 93.9%** at 94% measured coverage, with an abstention gate
 - Input-validation layer rejects **8/8 adversarial inputs** — added after the model labelled an empty array with 100% confidence
-- Benchmarked a ViT and **rejected it with evidence** (0.698 F1 at 3× the params)
+- Ran the model over **all 811,457 wafers** in WM-811K, most never labelled by a human, and found it confidently labels unseen patterns (e.g. tester-induced stripes) — now building out-of-distribution "I haven't seen this" detection
+- Rejected two approaches with evidence: a ViT (0.698 F1 at 3× the params) and self-training on unlabelled wafers (pseudo-labels only reliable on classes it already handled)
 
 <sub><code>PyTorch</code> <code>scikit-learn</code> <code>MCP</code> <code>IBM Bob</code> <code>Gemini</code> <code>FastAPI</code> <code>Next.js</code></sub><br/>
 <sub><a href="https://github.com/Parva-28/bob-ai-hackathon-DuckDuckGo">Code</a> &nbsp;·&nbsp; team of 4 · ~80% of commits</sub>
@@ -228,6 +230,8 @@ Classroom quiz backend built for **100+ concurrent participants** — live leade
 | | |
 |---|---|
 | 🥈 **Runners-up (2nd place)** | IBM Bob AI Hackathon 2026 — YieldGuard |
+| 🥈 **Runners-up, Development track** | InnoTech 3.0 — YieldGuard |
+| 📞 **Top 7** | Chaos2Commit (FUTURRIZON × CHARUSAT), AI Sales Agent challenge — Vaani |
 | 🏁 **National finalist** | ODOO Hackathon 2025 · MSBC DataQuest 2025 · Reckon 7.0 2026 |
 | 🎓 **NPTEL Elite** | Programming in Modern C++ |
 | 🧩 **230+ problems** | Solved on LeetCode |
